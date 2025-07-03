@@ -1,6 +1,6 @@
 # Hi there, I'm Rahul Pal 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulpall/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulpal.dev96@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918416853408)
 
@@ -111,7 +111,7 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 
 - 📧 **Email:** [rahulpal.dev96@gmail.com](mailto:rahulpal.dev96@gmail.com)
 - 📱 **Phone:** [+91 8416853408](tel:+918416853408)
-- 💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/your-profile)
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/rahulpall/)
 
 ---
 
