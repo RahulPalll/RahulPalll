@@ -91,12 +91,6 @@ Currently working on B2B SaaS insurance platforms, delivering efficient and scal
 - 📦 **Order Creation:** Streamlined order placements for increased efficiency
 - 🎯 Enhanced quality control processes and workflow management
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 ## 🌱 Current Focus
 
